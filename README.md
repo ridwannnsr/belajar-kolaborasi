@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-Belajar kolaborasi GitHub
+Melakukan squashing changes feat Dicoding
